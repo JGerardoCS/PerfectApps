@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2DAF416F-67C8-4479-BE06-9E1BEBE8936B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerfectApps.Exercise.App", "src\PerfectApps.Exercise.App\PerfectApps.Exercise.App.csproj", "{360691F1-4043-4177-A529-482EE9CA495D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{360691F1-4043-4177-A529-482EE9CA495D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{360691F1-4043-4177-A529-482EE9CA495D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{360691F1-4043-4177-A529-482EE9CA495D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{360691F1-4043-4177-A529-482EE9CA495D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{360691F1-4043-4177-A529-482EE9CA495D} = {2DAF416F-67C8-4479-BE06-9E1BEBE8936B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A80EDA5-9764-40DD-A896-38A4C2E26220}
+	EndGlobalSection
+EndGlobal
